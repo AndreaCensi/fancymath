@@ -1,0 +1,10 @@
+When these symbols, \otimes and \sqcup, are used to denote
+morphisms, they indicate a monoidal product. So, you shouldn't 
+use it to denote the universal arrow itself. 
+
+In other words, given f:A-->X and g: B-->Y, you can write 
+   f \sqcup g: A \sqcup B \to X \sqcup Y         
+or
+   f \otimes g: A\otimes B \to X \otimes Y
+But given f: A-->X and g: B-->X, you shouldn't name the 
+universal morphism  A \sqcup B --> X by f\sqcup g ..
