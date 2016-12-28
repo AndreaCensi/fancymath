@@ -19,9 +19,9 @@ Example:
     In other words, given f:A-->X and g: B-->Y, you can write
        f \sqcup g: A \sqcup B \to X \sqcup Y
     or
-       f \otimes g: A\otimes B \to X \otimes Y
+       f \otimes g: A \otimes B \to X \otimes Y
     But given f: A-->X and g: B-->X, you shouldn't name the
-    universal morphism  A \sqcup B --> X by f\sqcup g ..
+    universal morphism  A \sqcup B --> X by f \sqcup g ..
 
     $ fancymath < spivak.txt
 
@@ -32,9 +32,9 @@ Example:
     In other words, given f:A⟶X and g: B⟶Y, you can write
        f ⊔ g: A ⊔ B ⟶ X ⊔ Y
     or
-       f ⊗ g: A⊗ B ⟶ X ⊗ Y
+       f ⊗ g: A ⊗ B ⟶ X ⊗ Y
     But given f: A⟶X and g: B⟶X, you shouldn't name the
-    universal morphism  A ⊔ B ⟶ X by f⊔ g ..
+    universal morphism  A ⊔ B ⟶ X by  f⊔ g ..
 
 
 ### Installation
