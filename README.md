@@ -45,7 +45,11 @@ Simply this:
 
 ### Installation from source if you want to change the symbols
 
-1. download this repo
-2. use this:
+If you want to customize the symbols, first clone this repository.
+
+Then use this command:
 
    $ python setup.py develop
+
+The symbols are in the file `fancymath/tables.py`. Please send a pull request
+with the symbols you find useful!
